@@ -1,0 +1,80 @@
+body{font-family: 'OpenSans', sans-serif;}
+
+#navbar-brand { color: #FFB6C1 !important;}
+
+#icono{color: #FFB6C1 !important;}
+
+.display-1{ color: #8B0000 !important;}
+
+.container hr{
+  border-top: 1px;
+  color: black;
+}
+
+#icons{color: #8B0000 !important;}
+
+#sobre-mi{
+  color:#8B0000;
+  background-color: #FFB6C1;
+  height: 30px;
+  weight:500px;
+}
+
+#sobre-mi2{
+  color:#8B0000;
+  text-decoration:line-through;
+}
+
+#lista li{list-style: none !important;}
+
+#lista h4{
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom.color: black;
+line-height: 50px;
+width: 190px;
+}
+
+#trabajo{ background-color: #FFB6C1}
+
+.display-3{ color: #8B0000 !important; }
+
+.card{
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.carousel-indicators { bottom: -54px;}
+
+.carousel-indicators li {
+  background: #373a3c;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 0;
+}
+.carousel-indicators .active{ background: #000000; }
+
+.carrusel img{ width: 100%; }
+
+.btn{
+  background-color: #FFB6C1 !important;
+  color: #8B0000 !important;
+}
+/* modal */
+.modal-dialog{
+  margin: 0;
+}
+#exampleModal, #exampleModal2, #exampleModal3, #exampleModal4, #exampleModal5, #exampleModal6 {
+  background-color: #FFB6C1 !important;
+  width: 1000px;
+  height: 500px;
+  overflow: scroll;
+  margin: auto;
+}
+#modal-content{
+  width: 1000px;
+  height: 500px;
+  overflow: scroll;
+  margin: auto;
+}
